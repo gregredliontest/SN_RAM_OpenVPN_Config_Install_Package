@@ -74,3 +74,5 @@ If installation fails:
 
 - Recreate the ZIP file using **7-Zip**  
 - Double-check the configuration file for syntax errors  
+
+EZ-OpenVPN-Toolkit - https://github.com/hms-networks/EZ-OpenVPN-Toolkit was used to create the OpenVPN configuration
