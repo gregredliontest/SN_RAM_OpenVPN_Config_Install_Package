@@ -1,7 +1,7 @@
 # SN_RAM_OpenVPN_Config_Install_Package
 📦 OpenVPN Client Config Installation Instructions
 1. Prepare the ZIP Package
-Open OpenVPN_client_config_install.zip
+Open OpenVPN_client_config_install_example.zip
 On Windows, use 7-Zip (recommended) or open directly in Explorer
 Place your OpenVPN client configuration file in the root of the ZIP
 Supported file types:
