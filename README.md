@@ -35,6 +35,7 @@ Select your updated ZIP file
 Click Install
 <img width="863" height="619" alt="image" src="https://github.com/user-attachments/assets/bfbc5867-5780-4b6f-9d62-aae2e9db7e16" />
 
+
 4. What Happens During Installation
 
 The device will automatically:
