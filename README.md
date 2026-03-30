@@ -27,8 +27,14 @@ On Windows, use 7-Zip to avoid modifying script formatting or permissions
 Log in to your Red Lion SN/RAM device web interface
 Navigate to:
 Admin → Package Installation
+<img width="663" height="317" alt="image" src="https://github.com/user-attachments/assets/30dd67c8-7092-4516-8125-d428319fb5e1" />
+
 Select your updated ZIP file
+<img width="1014" height="755" alt="image" src="https://github.com/user-attachments/assets/69d1dd60-be0e-4665-834e-7bdc0bdb7acf" />
+
 Click Install
+<img width="863" height="619" alt="image" src="https://github.com/user-attachments/assets/bfbc5867-5780-4b6f-9d62-aae2e9db7e16" />
+
 4. What Happens During Installation
 
 The device will automatically:
