@@ -60,6 +60,8 @@ The device will automatically:
 ✅ **Installation Complete**
 
 Once the process finishes, your new OpenVPN configuration will be active.
+You can then navigate to the ovpn import (ex. https://ipofdevice:10001/#!/ovpnimport
+<img width="1666" height="650" alt="image" src="https://github.com/user-attachments/assets/011cb7f0-e8c4-4873-a067-c185059fdb14" />
 
 ---
 
